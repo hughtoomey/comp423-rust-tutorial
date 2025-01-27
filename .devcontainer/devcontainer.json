@@ -1,0 +1,13 @@
+{
+    "name": "COMP423 Rust Tutorial",
+    "image": "rust:latest",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "rust-lang.rust-analyzer"
+            ]
+        }
+    },
+    "postCreateCommand": ""
+}
